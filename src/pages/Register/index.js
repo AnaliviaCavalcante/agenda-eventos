@@ -61,7 +61,7 @@ export default function Register() {
           onClick={() => setIsLogin(!isLogin)} 
           style={{marginTop: '1.5rem', background: 'transparent', color: 'var(--text-muted)', width: '100%', fontSize: '0.9rem'}}
         >
-          {isLogin ? ''}
+          {isLogin ? 'Novo por aqui? Crie sua conta' : 'Já tenho conta. Fazer login'}
         </button>
         
         <div style={{textAlign: 'center', marginTop: '2rem'}}>
