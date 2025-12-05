@@ -59,5 +59,5 @@ Certifique-se de ter o **Node.js** instalado em sua máquina.
 
 5.  **Acesse a aplicação**
     Abra seu navegador em `http://localhost:3000`.
-
+feito por: Ana Livia Cavalcante, Pedro Henrique, Marcos 
 
