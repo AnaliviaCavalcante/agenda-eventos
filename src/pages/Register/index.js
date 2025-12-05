@@ -32,7 +32,7 @@ export default function Register() {
         
         <div style={{textAlign: 'center', marginBottom: '2rem'}}>
           <h1 style={{fontSize: '2rem', fontWeight: '800'}}>Agenda<span style={{color:'var(--primary)'}}>.</span></h1>
-          <p style={{color: 'var(--text-muted)'}}>Organize seus compromissos</p>
+          <p style={{color: 'var(--text-muted)'}}>Veja compromissos</p>
         </div>
 
         <form onSubmit={handleAuth} style={{background: 'var(--surface)', padding: '2rem', borderRadius: '12px', border: '1px solid var(--border)'}}>
